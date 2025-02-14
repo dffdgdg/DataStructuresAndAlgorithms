@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dsasa\\source\\repos\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\dsasa\\source\\repos\\DataStructuresAndAlgorithms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0FA97A7-F555-42CE-A0A1-989BEB43DBE8}|ConsoleApplication1.vcxproj|C:\\Users\\dsasa\\source\\repos\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A0FA97A7-F555-42CE-A0A1-989BEB43DBE8}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A0FA97A7-F555-42CE-A0A1-989BEB43DBE8}|ConsoleApplication1.vcxproj|C:\\Users\\dsasa\\source\\repos\\DataStructuresAndAlgorithms\\Practise1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0FA97A7-F555-42CE-A0A1-989BEB43DBE8}|ConsoleApplication1.vcxproj|solutionrelative:Practise1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +31,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "C:\\Users\\dsasa\\source\\repos\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\dsasa\\source\\repos\\ConsoleApplication1\\ConsoleApplication1.cpp",
-              "RelativeToolTip": "ConsoleApplication1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Title": "Practise1.cpp",
+              "DocumentMoniker": "C:\\Users\\dsasa\\source\\repos\\DataStructuresAndAlgorithms\\Practise1.cpp",
+              "RelativeDocumentMoniker": "Practise1.cpp",
+              "ToolTip": "C:\\Users\\dsasa\\source\\repos\\DataStructuresAndAlgorithms\\Practise1.cpp",
+              "RelativeToolTip": "Practise1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-14T10:38:01.919Z",
               "EditorCaption": ""
