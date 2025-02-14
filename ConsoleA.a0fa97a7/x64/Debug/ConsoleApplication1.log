@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\dsasa\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(110,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\dsasa\source\repos\ConsoleApplication1\ConsoleApplication1.cpp(141,31): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\dsasa\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
